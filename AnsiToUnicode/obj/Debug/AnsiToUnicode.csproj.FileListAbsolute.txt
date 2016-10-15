@@ -1,0 +1,8 @@
+F:\program\vsworkspeace\AnsiToUnicode\AnsiToUnicode\bin\Debug\AnsiToUnicode.exe.config
+F:\program\vsworkspeace\AnsiToUnicode\AnsiToUnicode\bin\Debug\AnsiToUnicode.exe
+F:\program\vsworkspeace\AnsiToUnicode\AnsiToUnicode\bin\Debug\AnsiToUnicode.pdb
+F:\program\vsworkspeace\AnsiToUnicode\AnsiToUnicode\obj\Debug\AnsiToUnicode.csprojResolveAssemblyReference.cache
+F:\program\vsworkspeace\AnsiToUnicode\AnsiToUnicode\obj\Debug\AnsiToUnicode.MainForm.resources
+F:\program\vsworkspeace\AnsiToUnicode\AnsiToUnicode\obj\Debug\AnsiToUnicode.csproj.GenerateResource.Cache
+F:\program\vsworkspeace\AnsiToUnicode\AnsiToUnicode\obj\Debug\AnsiToUnicode.exe
+F:\program\vsworkspeace\AnsiToUnicode\AnsiToUnicode\obj\Debug\AnsiToUnicode.pdb
